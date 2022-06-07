@@ -1,6 +1,6 @@
 package ru.geekbrains.javatest1.lesson1;
 
-// Created by: Marina
+// Created by: Marina Bulatova
 /*
    HomeWorkApp class
  */
